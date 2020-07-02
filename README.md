@@ -22,8 +22,13 @@ https://logic.ly/
 ### Try Online
 https://logic.ly/demo
 
+## Simulators
+
 ### Intel 8080 Online CPU Simulator
 https://www.tramm.li/i8080/emu8080.html
 
 ### Visual 6800 Online CPU Simulator
 http://visual6502.org/JSSim/expert-6800.html
+
+### Easy 6502
+https://skilldrick.github.io/easy6502/
